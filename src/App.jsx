@@ -1,4 +1,4 @@
-
+import Header from './containers/Header'
 import './App.css'
 
 function App() {
@@ -6,7 +6,9 @@ function App() {
 
   return (
     <>
-      <h1 className=' '>hello</h1>
+      <div className='App'>
+          <Header/>
+      </div>
     </>
   )
 }

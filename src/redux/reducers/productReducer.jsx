@@ -4,6 +4,9 @@ const initialState = {
         id:1,
         title:"Aniket",
         catogory:"programmer",
+        id:2,
+        title:"Wojak",
+        catogory:"programmer",
     }],
 }
 
